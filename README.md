@@ -34,5 +34,5 @@ LAC image it corrects.
 ## Status
 
 Transcription is ongoing — new unit diaries are added daily until the full
-set of 467 diaries is complete. As of 27 Oct 2026: 18 diaries complete, 3 more
-in progress, 13,141 index entries. See `index/INDEX.md` for current coverage.
+set of 467 diaries is complete. As of 28 Oct 2026: 33 diaries complete, 3 more
+in progress, 23,313 index entries. See `index/INDEX.md` for current coverage.
